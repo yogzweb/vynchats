@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "VynChat",
+    "slug": "vynchat",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "android": {
+      "package": "com.vynchat.app",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "GANTI_DENGAN_PROJECT_ID_EAS"
+      }
+    }
+  }
+}
